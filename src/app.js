@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // created heading with H1 tag
 const heading = React.createElement("h1", {}, "Hello World");
 
